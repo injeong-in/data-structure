@@ -1,4 +1,4 @@
-package sec01.Search;
+package sec01.Linear;
 
 import java.util.NoSuchElementException;
 

@@ -1,5 +1,7 @@
 package sec01.Search;
 
+import sec01.Linear.Queue;
+
 public class Test {
 
     public static void main(String[] args) {
