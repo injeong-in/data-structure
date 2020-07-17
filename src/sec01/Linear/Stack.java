@@ -5,11 +5,17 @@ public class Stack<T> {
         private T data;
         private Node<T> next;
 
-        public Node<T>(T data) {
-            this.data = data;
-        }
-
-        private Node<T>
+//        public Node<T>(T data) {
+//            this.data = data;
+//        }
+//
+//        private Node<T> top;
+//
+//        public T pop() {
+//            if(top == null) {
+//                throw new ExptyStackException();
+//            }
+//        }
     }
 
 
