@@ -1,6 +1,5 @@
 package sec02.Generic;
 
-import sun.net.www.content.text.Generic;
 
 public class GenericExam<E> {
 

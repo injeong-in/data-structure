@@ -1,4 +1,4 @@
-package sec01.Search;
+package sec02.Search;
 
 import sec01.Linear.Queue;
 

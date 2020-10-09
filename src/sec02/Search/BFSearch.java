@@ -1,4 +1,4 @@
-//package sec01.Search;
+//package sec02.Search;
 //
 //import java.util.LinkedList;
 //import java.util.Queue;

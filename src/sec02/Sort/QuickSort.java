@@ -47,12 +47,22 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {1,2,7,4,3,9,8};
+//        int[] arr = {1,2,7,4,3,9,8};
+//
+//        QuickSort q = new QuickSort();
+//        printArray(arr);
+//        q.quickSort(arr);
+//        printArray(arr);
 
-        QuickSort q = new QuickSort();
-        printArray(arr);
-        q.quickSort(arr);
-        printArray(arr);
+        String str = "사과: 1000원, 감자: 500원, 마늘: 200원";
+        String target = "마늘";
+        int target_num = str.indexOf(target);
+        int end_num = str.substring(target_num).indexOf("원")+target_num;
+
+        System.out.println(str.substring(target_num,end_num+1));
+
+
+
 
     }
 
